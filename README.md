@@ -1,4 +1,4 @@
-# Customer Support Ticket Analyzer
+# Customer Support Ticket Analysis using Python
 ## Project Overview
 The Customer Support Ticket Analyzer was developed to store, clean, analyze, and extract insights from customer service tickets. The system uses Python dictionaries, lists, loops, functions, and string processing techniques to generate meaningful insights from customer issue descriptions.
 ## Objectives
@@ -33,6 +33,10 @@ This ensured uniform formatting and improved keyword matching accuracy.
 2.	Both positive and negative feedback are present.
 3.	High-priority tickets require structured management.
 4.	Text cleaning significantly improves analytical accuracy.
+## Business Impact
+- Improves customer satisfaction
+- Reduces response delays
+- Optimizes support staffing
 ## Conclusion
 The Python-based Ticket Analysis System successfully demonstrates:
 -	Data Loading & Structuring
